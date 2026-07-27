@@ -31,8 +31,8 @@ This project recreates the classic Flappy Bird gameplay where the player control
 ```
 Flappybird/
 │
-├── FlappyBird.py
-├── gallery/
+├── main.py
+├── assets/
 │   ├── sprites/
 │   └── audio/
 ├── README.md
@@ -87,13 +87,13 @@ python FlappyBird.py
 Example:
 
 ```
-images/gameplay.png
+python/gameplay.png
 ```
 
 Then add
 
 ```md
-![Gameplay](images/gameplay.png)
+![Gameplay](python/gameplay.png)
 ```
 
 ---
