@@ -82,19 +82,10 @@ python FlappyBird.py
 
 ## 📸 Screenshot
 
-> Add a screenshot of the game here.
-
 Example:
 
-```
-python/gameplay.png
-```
+<img width="1632" height="940" alt="gameplay" src="https://github.com/user-attachments/assets/db9ff88f-d160-446c-8ad9-98614b8e5e3e" />
 
-Then add
-
-```md
-![Gameplay](python/gameplay.png)
-```
 
 ---
 
